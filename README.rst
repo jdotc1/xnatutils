@@ -1,3 +1,13 @@
+.. rubric:: About this fork
+
+This is a development fork of `Australian-Imaging-Service/xnatutils <https://github.com/Australian-Imaging-Service/xnatutils>`__, the XNAT command-line utilities built on XnatPy. Its commands list projects, subjects, sessions, and scans; transfer resources; and get or set metadata fields. These tools help connect an imaging repository to repeatable research data-management workflows.
+
+The fork's `upstream PR #16 <https://github.com/Australian-Imaging-Service/xnatutils/pull/16>`__ proposes containment checks for per-file download destinations. It was open on 17 October 2026 and is tracked on the linked feature branch.
+
+Use the `official README <https://github.com/Australian-Imaging-Service/xnatutils#readme>`__ for installation, authentication, optional image converters, and command help. `Compare the default branch with upstream <https://github.com/jdotc1/xnatutils/compare/Australian-Imaging-Service:main...jdotc1:main>`__. The original usage examples and upstream project documentation are preserved below.
+
+.. rubric:: Upstream README
+
 XnatUtils
 =========
 
